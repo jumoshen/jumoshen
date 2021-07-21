@@ -1,4 +1,4 @@
 - 👋 Hi, I’m liang hui
 - 👀 I’m a php/golang programmer
 - 🌱 I used to work for Tal
-- 📫 Connect me by gmail:hui.liang@gamil.com
+- 📫 Connect me by gmail:job.lianghui@gamil.com
